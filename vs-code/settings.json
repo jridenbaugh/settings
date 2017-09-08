@@ -1,0 +1,21 @@
+// Place your settings in this file to overwrite the default settings
+{
+  "editor.tabSize": 2,
+  "editor.rulers": [0],
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+
+  "files.autoSave": "afterDelay",
+  "files.eol": "\n",
+
+  "workbench.editor.showTabs": true,
+  "explorer.openEditors.visible": 0,
+
+  "javascript.validate.enable": false,
+  "workbench.iconTheme": "vs-seti",
+
+  "editor.snippetSuggestions": "top",
+  "editor.minimap.enabled": false,
+  "editor.formatOnPaste": false,
+  "editor.renderIndentGuides": false,
+}
